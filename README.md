@@ -1,4 +1,4 @@
-# image encoder
+# File Encryption to Image And decryptors
 this script encrypts ant file to image and decrypts it in python 3 language
 # how to work
 Encode file in an image<br/>
